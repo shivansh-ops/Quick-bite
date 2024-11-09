@@ -1,6 +1,3 @@
-# Roulettech Project
-* Link (github repo): https://github.com/Uchiha-Itachi0/roulettech_project
-
 * Link to see the frontend only (without django) : https://quickbite0.netlify.app/
 
 # Description
